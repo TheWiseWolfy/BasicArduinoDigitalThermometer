@@ -3,7 +3,7 @@ This is a simple digital thermometer using the LM35 sensor. For displaying the f
 
 Here is the notation for the 7-Segment display (credit to circuitbasics.com):
 ![alt text](https://www.circuitbasics.com/wp-content/uploads/2017/05/Arduino-7-Segment-Display-Tutorial-Segment-Layout-Diagram.png =250x250) 
-
+<img src="https://www.circuitbasics.com/wp-content/uploads/2017/05/Arduino-7-Segment-Display-Tutorial-Segment-Layout-Diagram.png." data-canonical-src="https://www.circuitbasics.com/wp-content/uploads/2017/05/Arduino-7-Segment-Display-Tutorial-Segment-Layout-Diagram.png" width="200" height="400" />
 
 Here is the diagram of the circuit, simplified with a simpler display pin layout. The real one is really unintuitive:
 ![alt text](https://github.com/TheWiseWolfy/BasicArduinoDigitalThermometer/blob/main/Diagram.png)
